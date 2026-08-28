@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝
 ```
 
-### `arif@github:~$`
+### `arif-sadik@github:~$`
 
 **CS Student · Full-Stack Developer · Automation & Robotics**
 
@@ -55,7 +55,7 @@ I care about understanding what happens underneath the abstraction: how applicat
 
 **Frontend**
 
-`React` `Next.js` `Tailwind CSS` `HTML` `CSS` `SVG`
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
 
 **Backend & Data**
 
