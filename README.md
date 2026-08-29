@@ -71,7 +71,7 @@ I care about understanding what happens underneath the abstraction: how applicat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,python,bash,react,nextjs,tailwind,nodejs,express,mongodb,oracle,sqlite,git,github,linux,docker&perline=9" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,python,bash,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,linux,docker&perline=9" alt="Tech stack">
 
 </div>
 
