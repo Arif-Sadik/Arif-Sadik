@@ -51,7 +51,7 @@ I care about understanding what happens underneath the abstraction: how applicat
 
 **Languages**
 
-`TypeScript` `JavaScript` `Python` `C++` `Java` `Shell`
+`TypeScript` `JavaScript` `Python` `C++` `C` `Java` `Shell`
 
 **Frontend**
 
@@ -71,7 +71,7 @@ I care about understanding what happens underneath the abstraction: how applicat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,bash,react,nextjs,tailwind,nodejs,express,mongodb,oracle,sqlite,git,github,linux,docker&perline=9" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=c,cppts,js,python,java,bash,react,nextjs,tailwind,nodejs,express,mongodb,oracle,sqlite,git,github,linux,docker&perline=9" alt="Tech stack">
 
 </div>
 
@@ -99,7 +99,7 @@ A DBMS project for managing players, teams, tournaments, match performance, fitn
 
 The repository contains a Next.js/React/TypeScript frontend together with an Express/Node backend structure and Oracle database work.
 
-**Stack:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Express` · `Node.js` · `Oracle`
+**Stack:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Express` · `Node.js` · `Oracle SQL`
 
 → [Repository](https://github.com/Arif-Sadik/PitchSync-DBMS-Group-Project-)
 
