@@ -59,7 +59,7 @@ I care about understanding what happens underneath the abstraction: how applicat
 
 **Backend & Data**
 
-`Node.js` `Express.js` `MongoDB` `Mongoose` `Oracle` `SQLite`
+`Node.js` `Express.js` `MongoDB` `Mongoose` `Oracle` `SQLite` `PostgreSQL`
 
 **Engineering**
 
